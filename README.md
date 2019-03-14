@@ -1,5 +1,5 @@
 # reproduce-chexnet
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jrzech/reproduce-chexnet/master?filepath=Explore_Predictions.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dnssh/reproduce-chexnet/master?filepath=Explore_Predictions.ipynb)
 
 Provides Python code to reproduce model training, predictions, and heatmaps from the [CheXNet paper](https://arxiv.org/pdf/1711.05225) that predicted 14 common diagnoses using convolutional neural networks in over 100,000 NIH chest x-rays.
 
@@ -146,3 +146,7 @@ My goal in releasing this code is to increase transparency and replicability of 
 
 ## Acknowledgements
 With deep gratitude to researchers and developers at PyTorch, NIH, Stanford, and Project Jupyter, on whose generous work this project relies. With special thanks to Sasank Chilamkurthy, whose demonstration code was incorporated into this project. PyTorch is an incredible contribution to the research community.
+
+
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dnssh/reproduce-chexnet/master?filepath=Explore_Predictions.ipynb)

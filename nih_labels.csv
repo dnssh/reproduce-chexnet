@@ -1,2 +1,3 @@
 Image Index,Follow-up #,Patient ID,Patient Age,Patient Gender,View Position,Cardiomegaly,Emphysema,Effusion,Hernia,Infiltration,Mass,Nodule,Atelectasis,Pneumothorax,Pleural_Thickening,Pneumonia,Fibrosis,Edema,Consolidation,fold
+00000013_010.png,10,13,060Y,M,AP,0,0,1,0,0,0,0,0,1,0,1,0,0,0,train
 00000075_000.png,0,75,062Y,F,PA,0,0,0,0,0,0,0,0,0,0,1,0,0,0,test
